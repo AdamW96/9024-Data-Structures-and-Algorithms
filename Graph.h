@@ -3,7 +3,6 @@
 //
 #include <stdbool.h>
 
-
 typedef struct GraphRep * Graph ;
 
 typedef int Vertex;
